@@ -1,0 +1,45 @@
+{
+	"details":{
+		"name":"Hema Latha",
+		"email":"hemayalagala@gmail.com",
+		"number":"999999999",
+		"Address":"Chilakaluripet"
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"eduactionalqualification":[
+{
+	"institute":"Narasaraopeta engineering college",
+	"degree":"B.tech",
+	"passoutyear":"2021",
+	"percentage":"85%"
+},
+{
+	"institute":"Narayana junior college",
+	"degree":"Intermediate",
+	"passoutyear":"2017",
+	"percentage":"95.9%"
+},
+{
+	"institute":"Modern High School",
+	"degree":"SSC",
+	"passoutyear":"2015",
+	"percentage":"95%"
+}
+	],
+
+	"techinicalskills":[{
+		"title":"Programming language",
+		"info":["c,java,python"]
+	},
+	{
+		"title":"Databases",
+		"info":["sql,mysql"]
+	},
+	{
+		"title":"Operating system",
+		"info":["windows,linux"]
+	}
+]
+}
